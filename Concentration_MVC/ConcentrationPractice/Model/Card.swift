@@ -8,9 +8,9 @@ struct Card
     var identifier: Int
     
     // Emoji 는 UI 에 관한 내용. Data 에 사용하지 않는다.
-    static var identifierFactory = 0
+    private static var identifierFactory = 0
     
-    static func getUniqueIdentifier() -> Int {
+    private static func getUniqueIdentifier() -> Int {
         identifierFactory += 1
         return identifierFactory
     }

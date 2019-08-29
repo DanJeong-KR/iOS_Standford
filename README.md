@@ -1,16 +1,17 @@
 # Stanford iOS 강의 정리 Repo
 ![](art/iTunesU.jpg?raw=true)
 
-* ### Lecture Name : Stanford Engineering CS193p: Developing iOS 11 Apps with Swift 4
-* ### Lectures
-  * Slides(수업때 교수님이 사용하는 Keynote)
-  * Video
+* ### 강의 이름 : Stanford Engineering CS193p: Developing iOS 11 Apps with Swift 4
+* ### 강의
+  * 키노트 (수업때 교수님이 사용하는 키노트)
+  * 영상
 * ### Reading Assignments (교수님이 읽어오세요. 하는 과제)
 * ### Problem Sets (과제)
 
+* ### 강의 설명
 This course is described as being updated for iOS 11 and Swift 4, Tools, and APIs required to build applications for the iPhone and iPad platforms using the iOS SDK.
 The course covers user interface design for mobile devices and unique user interactions using multi-touch technologies. Object-oriented design using model-view-controller paradigm, memory management, the Swift programming language.
-Other topics include
+Other topics include :
 * animation
 * mobile device power management
 * multi-threading
@@ -20,10 +21,10 @@ Other topics include
 * C language and object-oriented programming experience exceeding [Programming Abstractions](https://see.stanford.edu/Course/CS106B) level
 * completion of [Programming Paradigms](https://see.stanford.edu/Course/CS107).
 
-## Lectures
-| Lecture | Slides | Source | Video | Date
+## 강의
+| 강의 | Slides | Korean Video | Youtube Video | Date
 | ------------- | ------------- | ------------- | ------------- | -------------
-| 1. | [Overview of iOS](slides/Lecture-1-Slides.pdf) |  | [![](art/play.png?raw=true)](https://www.youtube.com/watch?v=z9IXfYHhKYI&index=1&list=PL_l7vS8VbNDFBiKIL3fEQhkKXTYsncsvN) | September 25, 2017
+| 1. | [Overview of iOS](slides/Lecture-1-Slides.pdf) | [![](art/play2.jpg?raw=true)](https://www.edwith.org/swiftapp/lecture/26619/) | [![](art/play.png?raw=true)](https://www.youtube.com/watch?v=z9IXfYHhKYI&index=1&list=PL_l7vS8VbNDFBiKIL3fEQhkKXTYsncsvN) | September 25, 2017
 | 2. | [Model View Controller (MVC)](slides/Lecture-2-Slides.pdf) |  | [![](art/play.png?raw=true)](https://www.youtube.com/watch?v=4iGdu4IWMFc&index=2&list=PL_l7vS8VbNDFBiKIL3fEQhkKXTYsncsvN) | September 27, 2017
 | FL1 | Debugging: Xcode Tips & Tricks |  | [![](art/play.png?raw=true)](https://www.youtube.com/watch?v=7CeXdDGjsVU&index=19&list=PL_l7vS8VbNDFBiKIL3fEQhkKXTYsncsvN) | September 29, 2017
 | 3. | [Swift](slides/Lecture-3-Slides.pdf) |  | [![](art/play.png?raw=true)](https://www.youtube.com/watch?v=88husjydCWY&index=3&list=PL_l7vS8VbNDFBiKIL3fEQhkKXTYsncsvN) | October 2, 2017

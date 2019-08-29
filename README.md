@@ -1,18 +1,24 @@
 # Stanford iOS 강의 정리 Repo
-* Lectures
-  * Slides(수업때 교수님이 사용하는 Keynote)
-  * Video
-* Reading Assignments (교수님이 읽어오세요. 하는 과제)
-* Problem Sets (과제)
-* [실습 프로젝트 답안](https://github.com/BestKora/CS193P-Fall-2017-DEMO)
-
-( Stanford Engineering CS193p: Developing iOS 11 Apps with Swift 4 )
-
 ![](art/iTunesU.jpg?raw=true)
 
-This course is described as being updated for iOS 11 and Swift 4, Tools, and APIs required to build applications for the iPhone and iPad platforms using the iOS SDK. The course covers user interface design for mobile devices and unique user interactions using multi-touch technologies. Object-oriented design using model-view-controller paradigm, memory management, the Swift programming language. Other topics include: animation, mobile device power management, multi-threading, networking and performance considerations.
+* ### Lecture Name : Stanford Engineering CS193p: Developing iOS 11 Apps with Swift 4
+* ### Lectures
+  * Slides(수업때 교수님이 사용하는 Keynote)
+  * Video
+* ### Reading Assignments (교수님이 읽어오세요. 하는 과제)
+* ### Problem Sets (과제)
 
-**Prerequisites**: C language and object-oriented programming experience exceeding [Programming Abstractions](https://see.stanford.edu/Course/CS106B) level, and completion of [Programming Paradigms](https://see.stanford.edu/Course/CS107).
+This course is described as being updated for iOS 11 and Swift 4, Tools, and APIs required to build applications for the iPhone and iPad platforms using the iOS SDK.
+The course covers user interface design for mobile devices and unique user interactions using multi-touch technologies. Object-oriented design using model-view-controller paradigm, memory management, the Swift programming language.
+Other topics include
+* animation
+* mobile device power management
+* multi-threading
+* networking and performance considerations.
+
+**Prerequisites**
+* C language and object-oriented programming experience exceeding [Programming Abstractions](https://see.stanford.edu/Course/CS106B) level
+* completion of [Programming Paradigms](https://see.stanford.edu/Course/CS107).
 
 ## Lectures
 | Lecture | Slides | Source | Video | Date
@@ -38,6 +44,30 @@ This course is described as being updated for iOS 11 and Swift 4, Tools, and API
 | 16. | [Segues - Modal, Popover, Unwind, Embed](slides/Lecture-16-Slides.pdf) | | [![](art/play.png?raw=true)](https://www.youtube.com/watch?v=NK-KG294hrc&list=PL_l7vS8VbNDFBiKIL3fEQhkKXTYsncsvN&index=16) | November 15, 2017
 | 17. | [Core Motion & Camera](slides/Lecture-17-Slides.pdf) | | [![](art/play.png?raw=true)](https://www.youtube.com/watch?v=ccG0QoSZIXA&index=17&list=PL_l7vS8VbNDFBiKIL3fEQhkKXTYsncsvN) | November 29, 2017
 
+## Projects
+| Listen  | Project Name
+| ------------- | -------------
+| L1. | [Concentration_L1](Projects/Concentration_L1)
+| L2. | [Concentration_L2](Projects/Concentration_L2)
+| L3. | [Concentration_L3](Projects/Concentration_L3)
+| L4. | [Concentration_L4](Projects/Concentration_L4)
+| L5. | [PlayingCard_L5](Projects/PlayingCard_L5)
+| L6. | [PlayingCard_L6](Projects/PlayingCard_L6)
+| L7. | [Concentration_L7](Projects/Concentration_L7)
+| L8. | [PlayingCard_L8](Projects/PlayingCard_L8)
+| L9. | [Concentration_L9](Projects/Concentration_L9)
+| L9. | [Cassini_L9](Projects/Cassini_L9)
+| L10. | [Concentration_L10](Projects/Concentration_L10)
+| L10. | [Cassini_L9](Projects/Cassini_L10)
+| L11. | [EmojiArt_L11](Projects/EmojiArt_L11)
+| L12. | [EmojiArt_L12](Projects/EmojiArt_L12)
+| L13. | [EmojiArt_L13](Projects/EmojiArt_L13)
+| L14. | [EmojiArt_L14](Projects/EmojiArt_L14)
+| L14+. | [EmojiArt_L14+](Projects/EmojiArt_L14+)
+| L15. | [EmojiArt_L15](Projects/EmojiArt_L15)
+| L16. | [EmojiArt_L16](Projects/EmojiArt_L16)
+| L17. | [EmojiArt_L17](Projects/EmojiArt_L17)
+
 ## Reading Assignments
 
 | Reading  | Name
@@ -57,16 +87,6 @@ This course is described as being updated for iOS 11 and Swift 4, Tools, and API
 | 5. | [Assignment 5: Image Gallery](problemsets/Programming_Project_5_Image_Gallery.pdf)
 | 6. | [Assignment 6: Persistent Image Gallary](problemsets/Programming_Project_6_Persistent_Image_Gallery.pdf)
 
-
-## Projects
-| Listen  | Name
-| ------------- | -------------
-| L1. | [Concentration_L1](Projects/Concentration_L1)
-| L2. | [Concentration_L2](Projects/Concentration_L2)
-| L3. | [Concentration_L3](Projects/Concentration_L3)
-| L4. | [Assignment 4: Animated Set](problemsets/Programming_Project_4_Animated_Set.pdf)
-| 5. | [Assignment 5: Image Gallery](problemsets/Programming_Project_5_Image_Gallery.pdf)
-| 6. | [Assignment 6: Persistent Image Gallary](problemsets/Programming_Project_6_Persistent_Image_Gallery.pdf)
 
 
 ### Reference

@@ -61,10 +61,10 @@ This course is described as being updated for iOS 11 and Swift 4, Tools, and API
 ## Projects
 | Listen  | Name
 | ------------- | -------------
-| 1. | [L1: Concentration_L1](Projects/Concentration_L1)
-| 2. | [L2: Concentration_L2](Projects/Concentration_L2)
-| 3. | [Assignment 3: Graphical Set](problemsets/Programming_Project_3_Graphical_Set.pdf)
-| 4. | [Assignment 4: Animated Set](problemsets/Programming_Project_4_Animated_Set.pdf)
+| L1. | [Concentration_L1](Projects/Concentration_L1)
+| L2. | [Concentration_L2](Projects/Concentration_L2)
+| L3. | [Concentration_L3](Projects/Concentration_L3)
+| L4. | [Assignment 4: Animated Set](problemsets/Programming_Project_4_Animated_Set.pdf)
 | 5. | [Assignment 5: Image Gallery](problemsets/Programming_Project_5_Image_Gallery.pdf)
 | 6. | [Assignment 6: Persistent Image Gallary](problemsets/Programming_Project_6_Persistent_Image_Gallery.pdf)
 

@@ -1,9 +1,9 @@
-# Stanford iOS 강의 정리하기 Repo
-* 강의영상
-* Keynote (수업때 쓰는 Slide)
-* Reading 자료
+# Stanford iOS 강의 정리 Repo
+* Lectures
+  * Slides(수업때 교수님이 사용하는 Keynote)
+  * Video
+* Reading Assignments (교수님이 읽어오세요. 하는 과제)
 * Problem Sets (과제)
-* 내 실습 프로젝트
 * [실습 프로젝트 답안](https://github.com/BestKora/CS193P-Fall-2017-DEMO)
 
 ( Stanford Engineering CS193p: Developing iOS 11 Apps with Swift 4 )
@@ -58,6 +58,16 @@ This course is described as being updated for iOS 11 and Swift 4, Tools, and API
 | 6. | [Assignment 6: Persistent Image Gallary](problemsets/Programming_Project_6_Persistent_Image_Gallery.pdf)
 
 
+## Projects
+| Listen  | Name
+| ------------- | -------------
+| 1. | [L1: Concentration_L1](Projects/Concentration L1)
+| 2. | [L2: Concentration_L2](Projects/Concentration L2)
+| 3. | [Assignment 3: Graphical Set](problemsets/Programming_Project_3_Graphical_Set.pdf)
+| 4. | [Assignment 4: Animated Set](problemsets/Programming_Project_4_Animated_Set.pdf)
+| 5. | [Assignment 5: Image Gallery](problemsets/Programming_Project_5_Image_Gallery.pdf)
+| 6. | [Assignment 6: Persistent Image Gallary](problemsets/Programming_Project_6_Persistent_Image_Gallery.pdf)
 
-### Reference 
+
+### Reference
 [duliodenis](duliodenis)

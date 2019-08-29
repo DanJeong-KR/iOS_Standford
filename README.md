@@ -93,4 +93,6 @@ Other topics include :
 
 
 ### Reference
-[duliodenis](duliodenis)
+[edwith](https://www.edwith.org/)
+[duliodenis](https://github.com/duliodenis/cs193p-Fall-2017)
+[BestKora](https://github.com/BestKora/CS193P-Fall-2017-DEMO)

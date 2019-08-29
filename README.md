@@ -1,10 +1,11 @@
 # Stanford iOS 강의 정리 Repo
 ![](art/iTunesU.jpg?raw=true)
 
-* ### 강의 이름 : Stanford Engineering CS193p: Developing iOS 11 Apps with Swift 4
+* ## Stanford Engineering CS193p: Developing iOS 11 Apps with Swift 4
 * ### 강의
   * 키노트 (수업때 교수님이 사용하는 키노트)
   * 영상
+* 프로젝트 파일 (각 강의마다 완성한 프로젝트 파일)
 * ### Reading Assignments (교수님이 읽어오세요. 하는 과제)
 * ### Problem Sets (과제)
 
@@ -25,27 +26,27 @@ Other topics include :
 | 강의 | Slides | Korean Video | Youtube Video | Date
 | ------------- | ------------- | ------------- | ------------- | -------------
 | 1. | [Overview of iOS](slides/Lecture-1-Slides.pdf) | [![](art/play2.jpg?raw=true)](https://www.edwith.org/swiftapp/lecture/26619/) | [![](art/play.png?raw=true)](https://www.youtube.com/watch?v=z9IXfYHhKYI&index=1&list=PL_l7vS8VbNDFBiKIL3fEQhkKXTYsncsvN) | September 25, 2017
-| 2. | [Model View Controller (MVC)](slides/Lecture-2-Slides.pdf) |  | [![](art/play.png?raw=true)](https://www.youtube.com/watch?v=4iGdu4IWMFc&index=2&list=PL_l7vS8VbNDFBiKIL3fEQhkKXTYsncsvN) | September 27, 2017
+| 2. | [Model View Controller (MVC)](slides/Lecture-2-Slides.pdf) | [![](art/play2.jpg?raw=true)](https://www.edwith.org/swiftapp/lecture/26620/) | [![](art/play.png?raw=true)](https://www.youtube.com/watch?v=4iGdu4IWMFc&index=2&list=PL_l7vS8VbNDFBiKIL3fEQhkKXTYsncsvN) | September 27, 2017
 | FL1 | Debugging: Xcode Tips & Tricks |  | [![](art/play.png?raw=true)](https://www.youtube.com/watch?v=7CeXdDGjsVU&index=19&list=PL_l7vS8VbNDFBiKIL3fEQhkKXTYsncsvN) | September 29, 2017
-| 3. | [Swift](slides/Lecture-3-Slides.pdf) |  | [![](art/play.png?raw=true)](https://www.youtube.com/watch?v=88husjydCWY&index=3&list=PL_l7vS8VbNDFBiKIL3fEQhkKXTYsncsvN) | October 2, 2017
-| 4. | [Protocols & Closures](slides/Lecture-4-Slides.pdf) |  | [![](art/play.png?raw=true)](https://www.youtube.com/watch?v=RGMKmhy-eWE&list=PL_l7vS8VbNDFBiKIL3fEQhkKXTYsncsvN&index=4) | October 4, 2017
-| 5. | [Drawing in iOS](slides/Lecture-5-Slides.pdf) | | [![](art/play.png?raw=true)](https://www.youtube.com/watch?v=pOO0pz0gPLk&list=PL_l7vS8VbNDFBiKIL3fEQhkKXTYsncsvN&index=5) | October 9, 2017
-| 6. | [Multitouch & Multiple MVCs](slides/Lecture-6-Slides.pdf) | | [![](art/play.png?raw=true)](https://www.youtube.com/watch?v=N_PyNplrhys&index=6&list=PL_l7vS8VbNDFBiKIL3fEQhkKXTYsncsvN) | October 11, 2017
-| 7. | [Multiple MVCs, Timer, Animation](slides/Lecture-7-Slides.pdf) | | [![](art/play.png?raw=true)](https://www.youtube.com/watch?v=diihWsxOsDk&index=7&list=PL_l7vS8VbNDFBiKIL3fEQhkKXTYsncsvN) | October 16, 2017
-| 8. | [Animation](slides/Lecture-8-Slides.pdf) | | [![](art/play.png?raw=true)](https://www.youtube.com/watch?v=5w9lu9ABJzE&index=8&list=PL_l7vS8VbNDFBiKIL3fEQhkKXTYsncsvN) | October 18, 2017
+| 3. | [Swift](slides/Lecture-3-Slides.pdf) | [![](art/play2.jpg?raw=true)](https://www.edwith.org/swiftapp/lecture/19418/) | [![](art/play.png?raw=true)](https://www.youtube.com/watch?v=88husjydCWY&index=3&list=PL_l7vS8VbNDFBiKIL3fEQhkKXTYsncsvN) | October 2, 2017
+| 4. | [Protocols & Closures](slides/Lecture-4-Slides.pdf) | [![](art/play2.jpg?raw=true)](https://www.edwith.org/swiftapp/lecture/26622/) | [![](art/play.png?raw=true)](https://www.youtube.com/watch?v=RGMKmhy-eWE&list=PL_l7vS8VbNDFBiKIL3fEQhkKXTYsncsvN&index=4) | October 4, 2017
+| 5. | [Drawing in iOS](slides/Lecture-5-Slides.pdf) | [![](art/play2.jpg?raw=true)](https://www.edwith.org/swiftapp/lecture/19421/) | [![](art/play.png?raw=true)](https://www.youtube.com/watch?v=pOO0pz0gPLk&list=PL_l7vS8VbNDFBiKIL3fEQhkKXTYsncsvN&index=5) | October 9, 2017
+| 6. | [Multitouch & Multiple MVCs](slides/Lecture-6-Slides.pdf) | [![](art/play2.jpg?raw=true)](https://www.edwith.org/swiftapp/lecture/19420/) | [![](art/play.png?raw=true)](https://www.youtube.com/watch?v=N_PyNplrhys&index=6&list=PL_l7vS8VbNDFBiKIL3fEQhkKXTYsncsvN) | October 11, 2017
+| 7. | [Multiple MVCs, Timer, Animation](slides/Lecture-7-Slides.pdf) | [![](art/play2.jpg?raw=true)](https://www.edwith.org/swiftapp/lecture/19422/) | [![](art/play.png?raw=true)](https://www.youtube.com/watch?v=diihWsxOsDk&index=7&list=PL_l7vS8VbNDFBiKIL3fEQhkKXTYsncsvN) | October 16, 2017
+| 8. | [Animation](slides/Lecture-8-Slides.pdf) | [![](art/play2.jpg?raw=true)](https://www.edwith.org/swiftapp/lecture/19423/) | [![](art/play.png?raw=true)](https://www.youtube.com/watch?v=5w9lu9ABJzE&index=8&list=PL_l7vS8VbNDFBiKIL3fEQhkKXTYsncsvN) | October 18, 2017
 | FL2 | Github, Source Code Workflow |  | [![](art/play.png?raw=true)](https://www.youtube.com/watch?v=P8gyK-_auNk&list=PL_l7vS8VbNDFBiKIL3fEQhkKXTYsncsvN&index=18) | October 20, 2017
-| 9. | [View Controller Lifecycle, Scroll View](slides/Lecture-9-Slides.pdf) | |  [![](art/play.png?raw=true)](https://www.youtube.com/watch?v=QjrMau1WmmU&index=9&list=PL_l7vS8VbNDFBiKIL3fEQhkKXTYsncsvN) | October 23, 2017
-| 10. | [Multithreading & AutoLayout](slides/Lecture-10-Slides.pdf) |  |  [![](art/play.png?raw=true)](https://www.youtube.com/watch?v=U1G8f6F3PyQ&list=PL_l7vS8VbNDFBiKIL3fEQhkKXTYsncsvN&index=10) | October 25, 2017
+| 9. | [View Controller Lifecycle, Scroll View](slides/Lecture-9-Slides.pdf) | [![](art/play2.jpg?raw=true)](https://www.edwith.org/swiftapp/lecture/19424/) |  [![](art/play.png?raw=true)](https://www.youtube.com/watch?v=QjrMau1WmmU&index=9&list=PL_l7vS8VbNDFBiKIL3fEQhkKXTYsncsvN) | October 23, 2017
+| 10. | [Multithreading & AutoLayout](slides/Lecture-10-Slides.pdf) | [![](art/play2.jpg?raw=true)](https://www.edwith.org/swiftapp/lecture/19425/) |  [![](art/play.png?raw=true)](https://www.youtube.com/watch?v=U1G8f6F3PyQ&list=PL_l7vS8VbNDFBiKIL3fEQhkKXTYsncsvN&index=10) | October 25, 2017
 | FL3 | Instruments |  | [![](art/play.png?raw=true)](https://www.youtube.com/watch?v=BCNlw9rhEe0&list=PL_l7vS8VbNDFBiKIL3fEQhkKXTYsncsvN&index=20) | October 27, 2017
-| 11. | [Drag and Drop, UITableView, & UICollectionView](slides/Lecture-11-Slides.pdf) | | [![](art/play.png?raw=true)](https://www.youtube.com/watch?v=hore835-Mj4&list=PL_l7vS8VbNDFBiKIL3fEQhkKXTYsncsvN&index=11) | October 30, 2017
-| 12. | [Emoji Art Demo, UITextField](slides/Lecture-12-Slides.pdf) | | [![](art/play.png?raw=true)](https://www.youtube.com/watch?v=qCJ79tknk1I&index=12&list=PL_l7vS8VbNDFBiKIL3fEQhkKXTYsncsvN) | November 1, 2017
-| 13. | [Emoji Art Demo, Persistence](slides/Lecture-13-Slides.pdf) | | [![](art/play.png?raw=true)](https://www.youtube.com/watch?v=9o-NSIiCHpg&list=PL_l7vS8VbNDFBiKIL3fEQhkKXTYsncsvN&index=13) | November 6, 2017
-| 14. | [More about Documents, Demo](slides/Lecture-14-Slides.pdf) | | [![](art/play.png?raw=true)](https://www.youtube.com/watch?v=zKHcLLza_Es&index=14&list=PL_l7vS8VbNDFBiKIL3fEQhkKXTYsncsvN) | November 8, 2017
-| 15. | [Alert and Action Sheet, Notifications & KVO, Application Lifecycle](slides/Lecture-15-Slides.pdf) | | [![](art/play.png?raw=true)](https://www.youtube.com/watch?v=bJLrcNEv88k&list=PL_l7vS8VbNDFBiKIL3fEQhkKXTYsncsvN&index=15) | November 13, 2017
-| 16. | [Segues - Modal, Popover, Unwind, Embed](slides/Lecture-16-Slides.pdf) | | [![](art/play.png?raw=true)](https://www.youtube.com/watch?v=NK-KG294hrc&list=PL_l7vS8VbNDFBiKIL3fEQhkKXTYsncsvN&index=16) | November 15, 2017
-| 17. | [Core Motion & Camera](slides/Lecture-17-Slides.pdf) | | [![](art/play.png?raw=true)](https://www.youtube.com/watch?v=ccG0QoSZIXA&index=17&list=PL_l7vS8VbNDFBiKIL3fEQhkKXTYsncsvN) | November 29, 2017
+| 11. | [Drag and Drop, UITableView, & UICollectionView](slides/Lecture-11-Slides.pdf) | [![](art/play2.jpg?raw=true)](https://www.edwith.org/swiftapp/lecture/19426/) | [![](art/play.png?raw=true)](https://www.youtube.com/watch?v=hore835-Mj4&list=PL_l7vS8VbNDFBiKIL3fEQhkKXTYsncsvN&index=11) | October 30, 2017
+| 12. | [Emoji Art Demo, UITextField](slides/Lecture-12-Slides.pdf) | [![](art/play2.jpg?raw=true)](https://www.edwith.org/swiftapp/lecture/19427/) | [![](art/play.png?raw=true)](https://www.youtube.com/watch?v=qCJ79tknk1I&index=12&list=PL_l7vS8VbNDFBiKIL3fEQhkKXTYsncsvN) | November 1, 2017
+| 13. | [Emoji Art Demo, Persistence](slides/Lecture-13-Slides.pdf) | [![](art/play2.jpg?raw=true)](https://www.edwith.org/swiftapp/lecture/19428/) | [![](art/play.png?raw=true)](https://www.youtube.com/watch?v=9o-NSIiCHpg&list=PL_l7vS8VbNDFBiKIL3fEQhkKXTYsncsvN&index=13) | November 6, 2017
+| 14. | [More about Documents, Demo](slides/Lecture-14-Slides.pdf) | [![](art/play2.jpg?raw=true)](https://www.edwith.org/swiftapp/lecture/19429/) | [![](art/play.png?raw=true)](https://www.youtube.com/watch?v=zKHcLLza_Es&index=14&list=PL_l7vS8VbNDFBiKIL3fEQhkKXTYsncsvN) | November 8, 2017
+| 15. | [Alert and Action Sheet, Notifications & KVO, Application Lifecycle](slides/Lecture-15-Slides.pdf) | [![](art/play2.jpg?raw=true)](https://www.edwith.org/swiftapp/lecture/19430/) | [![](art/play.png?raw=true)](https://www.youtube.com/watch?v=bJLrcNEv88k&list=PL_l7vS8VbNDFBiKIL3fEQhkKXTYsncsvN&index=15) | November 13, 2017
+| 16. | [Segues - Modal, Popover, Unwind, Embed](slides/Lecture-16-Slides.pdf) | [![](art/play2.jpg?raw=true)](https://www.edwith.org/swiftapp/lecture/19431/) | [![](art/play.png?raw=true)](https://www.youtube.com/watch?v=NK-KG294hrc&list=PL_l7vS8VbNDFBiKIL3fEQhkKXTYsncsvN&index=16) | November 15, 2017
+| 17. | [Core Motion & Camera](slides/Lecture-17-Slides.pdf) | [![](art/play2.jpg?raw=true)](https://www.edwith.org/swiftapp/lecture/26617/) | [![](art/play.png?raw=true)](https://www.youtube.com/watch?v=ccG0QoSZIXA&index=17&list=PL_l7vS8VbNDFBiKIL3fEQhkKXTYsncsvN) | November 29, 2017
 
-## Projects
+## 프로젝트 파일  
 | Listen  | Project Name
 | ------------- | -------------
 | L1. | [Concentration_L1](Projects/Concentration_L1)

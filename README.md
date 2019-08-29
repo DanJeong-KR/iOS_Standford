@@ -5,22 +5,23 @@
 * ### 강의
   * 키노트 (수업때 교수님이 사용하는 키노트)
   * 영상
-* 프로젝트 파일 (각 강의마다 완성한 프로젝트 파일)
+* ### 프로젝트 파일 (각 강의마다 완성한 프로젝트 파일)
 * ### Reading Assignments (교수님이 읽어오세요. 하는 과제)
 * ### Problem Sets (과제)
 
 * ### 강의 설명
 This course is described as being updated for iOS 11 and Swift 4, Tools, and APIs required to build applications for the iPhone and iPad platforms using the iOS SDK.
 The course covers user interface design for mobile devices and unique user interactions using multi-touch technologies. Object-oriented design using model-view-controller paradigm, memory management, the Swift programming language.
+
 Other topics include :
 * animation
 * mobile device power management
 * multi-threading
 * networking and performance considerations.
 
-**Prerequisites**
-* C language and object-oriented programming experience exceeding [Programming Abstractions](https://see.stanford.edu/Course/CS106B) level
-* completion of [Programming Paradigms](https://see.stanford.edu/Course/CS107).
+* ### Prerequisites
+  * C language and object-oriented programming experience exceeding [Programming Abstractions](https://see.stanford.edu/Course/CS106B) level
+  * completion of [Programming Paradigms](https://see.stanford.edu/Course/CS107).
 
 ## 강의
 | 강의 | Slides | Korean Video | Youtube Video | Date

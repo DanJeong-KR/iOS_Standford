@@ -24,7 +24,7 @@ Other topics include :
 ## 강의
 | 강의 | Slides | Korean Video | Youtube Video | Date
 | ------------- | ------------- | ------------- | ------------- | -------------
-| 1. | [Overview of iOS](slides/Lecture-1-Slides.pdf) | [![](art/play2.jpg?raw=true)](https://www.edwith.org/swiftapp/lecture/26619/) | [![](art/play.png?raw=true)](https://www.youtube.com/watch?v=z9IXfYHhKYI&index=1&list=PL_l7vS8VbNDFBiKIL3fEQhkKXTYsncsvN) | September 25, 2017
+| 1. | [Overview of iOS](slides/Lecture-1-Slides.pdf) | [![](art/play2.jpg)](https://www.edwith.org/swiftapp/lecture/26619/) | [![](art/play.png?raw=true)](https://www.youtube.com/watch?v=z9IXfYHhKYI&index=1&list=PL_l7vS8VbNDFBiKIL3fEQhkKXTYsncsvN) | September 25, 2017
 | 2. | [Model View Controller (MVC)](slides/Lecture-2-Slides.pdf) |  | [![](art/play.png?raw=true)](https://www.youtube.com/watch?v=4iGdu4IWMFc&index=2&list=PL_l7vS8VbNDFBiKIL3fEQhkKXTYsncsvN) | September 27, 2017
 | FL1 | Debugging: Xcode Tips & Tricks |  | [![](art/play.png?raw=true)](https://www.youtube.com/watch?v=7CeXdDGjsVU&index=19&list=PL_l7vS8VbNDFBiKIL3fEQhkKXTYsncsvN) | September 29, 2017
 | 3. | [Swift](slides/Lecture-3-Slides.pdf) |  | [![](art/play.png?raw=true)](https://www.youtube.com/watch?v=88husjydCWY&index=3&list=PL_l7vS8VbNDFBiKIL3fEQhkKXTYsncsvN) | October 2, 2017

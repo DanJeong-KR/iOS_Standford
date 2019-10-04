@@ -91,7 +91,6 @@ Other topics include :
 | 6. | [Assignment 6: Persistent Image Gallary](problemsets/Programming_Project_6_Persistent_Image_Gallery.pdf)
 
 
-
 ### Reference
 * [edwith](https://www.edwith.org/)
 * [duliodenis](https://github.com/duliodenis/cs193p-Fall-2017)
